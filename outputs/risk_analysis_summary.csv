@@ -1,0 +1,4 @@
+risk_exposure_flag,total_projects,total_open_risks,total_high_risks,total_escalated_risks,total_risk_exposure,average_max_risk_score,projects_requiring_attention,total_overdue_milestones,total_budget
+High,36,74,36,16,838,16.89,35,52,25400000
+Medium,27,48,0,0,288,8.41,11,27,18020000
+Low,17,0,0,0,0,3.53,6,1,10565000

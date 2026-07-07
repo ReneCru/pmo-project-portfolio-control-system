@@ -1,0 +1,29 @@
+kpi_name,kpi_value,kpi_category
+Total Projects,80.0,Portfolio Overview
+Active Projects,36.0,Portfolio Overview
+Completed Projects,18.0,Portfolio Overview
+Delayed Projects,12.0,Schedule Performance
+Projects Over Budget,14.0,Budget Control
+Forecast Over Budget Projects,52.0,Budget Control
+Projects Requiring Executive Attention,52.0,Executive Control
+Total Portfolio Budget,53985000.0,Budget Control
+Total Actual Cost,33910272.58,Budget Control
+Total Forecast Cost,56490078.49,Budget Control
+Total Budget Variance,20074727.42,Budget Control
+Total Forecast Variance,-2505078.49,Budget Control
+Average Completion Percentage,56.16,Portfolio Progress
+High Risk Projects,31.0,Risk Management
+Escalated Risk Projects,16.0,Risk Management
+Total Open Risks,122.0,Risk Management
+Total High Risks,36.0,Risk Management
+Total Escalated Risks,16.0,Risk Management
+Portfolio Risk Exposure,1126.0,Risk Management
+Total Milestones,435.0,Milestone Control
+Completed Milestones,191.0,Milestone Control
+Overdue Milestones,80.0,Milestone Control
+Average Milestone Completion Rate,45.29,Milestone Control
+Average Delay Days,124.33,Schedule Performance
+Portfolio Completion Rate,22.5,Portfolio Overview
+Delayed Project Rate,15.0,Schedule Performance
+Over Budget Project Rate,17.5,Budget Control
+Executive Attention Rate,65.0,Executive Control

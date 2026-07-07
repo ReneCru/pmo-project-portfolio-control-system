@@ -1,0 +1,4 @@
+traffic_light_status,total_projects,total_budget,total_actual_cost,total_open_risks,total_high_risks,total_overdue_milestones,average_completion,portfolio_percentage
+Red,52,35145000,25880806.51,94,36,75,64.42,65.0
+Yellow,21,14380000,5888412.3,28,0,5,35.38,26.25
+Green,7,4460000,2141053.77,0,0,0,57.14,8.75

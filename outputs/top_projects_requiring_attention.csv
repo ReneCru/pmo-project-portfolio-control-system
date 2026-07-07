@@ -1,0 +1,53 @@
+project_id,project_name,department,project_manager,priority,status,traffic_light_status,schedule_health,completion_percentage,budget,actual_cost,budget_variance,cost_overrun_percentage,project_delay_days,overdue_milestones,high_risks,escalated_risks,portfolio_risk_exposure,attention_score
+PMO-0051,Quality Customer Visibility Upgrade,Quality,Angie Henderson,Critical,Active,Red,Delayed,93,105000,124637.48,-19637.48,18.7,217,4,0,0,18,38.7
+PMO-0052,Finance Lean Execution Initiative,Finance,Cristian Santos,High,Active,Red,At Risk,95,845000,991164.77,-146164.77,17.3,0,4,1,0,30,38.3
+PMO-0033,Quality Audit Readiness Program,Quality,Lisa Hensley,Medium,Completed,Red,Completed,100,915000,1138950.62,-223950.62,24.48,0,0,1,0,0,33.480000000000004
+PMO-0020,Operations Approval Automation,Operations,Dylan Miller,Medium,Active,Red,Delayed,95,1185000,1215882.28,-30882.28,2.61,320,4,0,1,9,27.61
+PMO-0005,Engineering Digital Control Tower,Engineering,Monica Herrera,High,Cancelled,Red,Cancelled,34,260000,29478.78,230521.22,0.0,0,4,3,0,15,27.0
+PMO-0017,Engineering Digital Control Tower,Engineering,Jamie Arnold,High,Completed,Red,Completed,100,1070000,1315623.01,-245623.01,22.96,0,0,0,0,0,26.96
+PMO-0021,Compliance Workflow Automation,Compliance,Cristian Santos,Critical,On Hold,Red,Delayed,30,845000,336369.8,508630.2,0.0,22,2,2,1,49,25.0
+PMO-0036,Finance Efficiency Savings Project,Finance,Abigail Shaffer,Medium,Completed,Red,Completed,100,775000,897843.81,-122843.81,15.85,0,0,1,0,0,24.85
+PMO-0035,IT ERP Enhancement,IT,Connie Lawrence,Medium,Active,Red,At Risk,95,890000,1008141.21,-118141.21,13.27,0,2,0,0,4,23.27
+PMO-0006,IT Control Review Initiative,IT,Angie Henderson,Medium,Active,Red,On Track,53,410000,206378.34,203621.66,0.0,0,4,1,1,42,22.0
+PMO-0072,Compliance Data Visibility Platform,Compliance,Allison Hill,Medium,Active,Red,On Track,91,605000,494064.25,110935.75,0.0,0,4,1,1,20,22.0
+PMO-0049,Customer Service Lean Execution Initiative,Customer Service,Gabrielle Davis,Medium,Completed,Red,Completed,100,930000,1091120.78,-161120.78,17.32,0,0,0,0,0,21.32
+PMO-0073,Customer Service Business System Rollout,Customer Service,Gabrielle Davis,Low,Active,Red,Delayed,95,895000,841835.49,53164.51,0.0,79,4,0,1,8,21.0
+PMO-0018,Procurement Compliance Documentation Upgrade,Procurement,Gina Moore,High,Active,Red,On Track,67,955000,913221.44,41778.56,0.0,0,2,2,1,40,21.0
+PMO-0004,IT Service Performance Initiative,IT,Ryan Munoz,Medium,Completed,Red,Completed,100,215000,243644.24,-28644.24,13.32,0,0,0,0,0,17.32
+PMO-0024,Quality Data Visibility Platform,Quality,Daniel Wagner,Low,On Hold,Red,Delayed,45,300000,170605.23,129394.77,0.0,31,1,1,1,24,17.0
+PMO-0044,Operations Operational Excellence Program,Operations,Gina Moore,High,Active,Red,At Risk,95,1220000,1089651.02,130348.98,0.0,0,4,1,0,32,17.0
+PMO-0047,Engineering Business System Rollout,Engineering,Angie Henderson,High,Active,Red,On Track,55,365000,274560.47,90439.53,0.0,0,2,1,1,24,16.0
+PMO-0045,Manufacturing Data Accuracy Initiative,Manufacturing,Gina Moore,High,Active,Red,On Track,64,1110000,881966.22,228033.78,0.0,0,2,1,1,26,16.0
+PMO-0071,Supply Chain Compliance Documentation Upgrade,Supply Chain,Ryan Munoz,Low,Active,Red,On Track,84,540000,439888.0,100112.0,0.0,0,2,1,1,15,16.0
+PMO-0023,Manufacturing Process Standardization,Manufacturing,Angie Henderson,Low,Completed,Red,Completed,100,1105000,1232084.85,-127084.85,11.5,0,0,0,0,0,15.5
+PMO-0063,Finance Business System Rollout,Finance,Lisa Hensley,Critical,Active,Red,Delayed,88,710000,632935.6,77064.4,0.0,148,2,1,0,24,15.0
+PMO-0007,Manufacturing Control Review Initiative,Manufacturing,Daniel Wagner,High,Completed,Red,Completed,100,710000,752530.83,-42530.83,5.99,0,0,1,0,12,14.99
+PMO-0027,Engineering Data Governance Framework,Engineering,Michele Williams,High,On Hold,Red,Delayed,35,825000,235452.53,589547.47,0.0,132,0,1,1,32,14.0
+PMO-0013,Manufacturing Process Standardization,Manufacturing,Daniel Wagner,Low,Active,Red,On Track,50,810000,490611.96,319388.04,0.0,0,3,0,1,13,14.0
+PMO-0060,IT Business System Rollout,IT,Noah Rhodes,Critical,On Hold,Red,On Track,37,1215000,450416.2,764583.8,0.0,0,1,1,1,33,13.0
+PMO-0065,Supply Chain Master Data Quality Program,Supply Chain,Monica Herrera,Medium,Cancelled,Red,Cancelled,75,665000,278065.96,386934.04,0.0,0,4,0,0,16,12.0
+PMO-0046,Procurement Workflow Automation,Procurement,Cristian Santos,High,Active,Red,On Track,77,1145000,881325.84,263674.16,0.0,0,2,1,0,15,11.0
+PMO-0059,Operations Business System Rollout,Operations,Michele Williams,High,Active,Red,On Track,75,845000,877712.34,-32712.34,3.87,0,1,0,0,0,10.870000000000001
+PMO-0078,Manufacturing Workflow Automation,Manufacturing,Daniel Wagner,Medium,Completed,Red,Completed,100,1095000,1162736.95,-67736.95,6.19,0,0,0,0,12,10.190000000000001
+PMO-0031,Compliance Master Data Quality Program,Compliance,Ryan Munoz,Medium,On Hold,Red,Delayed,64,365000,217674.94,147325.06,0.0,293,2,0,0,21,10.0
+PMO-0080,Engineering Reporting Automation,Engineering,Abigail Shaffer,Medium,On Hold,Red,At Risk,51,660000,362791.33,297208.67,0.0,0,0,2,0,40,10.0
+PMO-0034,Operations Operational Excellence Program,Operations,Daniel Wagner,High,Active,Red,On Track,12,1015000,22541.98,992458.02,0.0,0,0,1,1,37,10.0
+PMO-0042,Operations Control Review Initiative,Operations,Ryan Munoz,Critical,On Hold,Red,Delayed,29,100000,41451.09,58548.91,0.0,13,2,0,0,10,10.0
+PMO-0026,Finance Operational Excellence Program,Finance,Ryan Munoz,Critical,Active,Red,On Track,45,200000,145159.92,54840.08,0.0,0,0,1,1,45,10.0
+PMO-0041,Procurement Workflow Automation,Procurement,Gabrielle Davis,Medium,Active,Red,On Track,84,405000,376198.82,28801.18,0.0,0,3,0,0,14,9.0
+PMO-0053,Manufacturing Cycle Time Reduction,Manufacturing,Daniel Wagner,Medium,Active,Red,On Track,63,135000,83858.5,51141.5,0.0,0,1,1,0,20,8.0
+PMO-0043,Compliance Customer Response Improvement,Compliance,Dylan Miller,Medium,Active,Red,On Track,48,360000,207906.57,152093.43,0.0,0,1,1,0,19,8.0
+PMO-0030,Supply Chain Data Visibility Platform,Supply Chain,Cristian Santos,Medium,Active,Red,On Track,34,750000,264280.35,485719.65,0.0,0,1,1,0,21,8.0
+PMO-0039,Compliance Vendor Risk Reduction,Compliance,Monica Herrera,Medium,Active,Red,On Track,58,930000,567368.2,362631.8,0.0,0,1,1,0,24,8.0
+PMO-0014,Operations Data Visibility Platform,Operations,Gabrielle Davis,Critical,Cancelled,Red,Cancelled,73,315000,41010.72,273989.28,0.0,0,1,0,1,2,8.0
+PMO-0054,Engineering Cost Avoidance Program,Engineering,Ryan Munoz,Medium,On Hold,Red,Delayed,49,585000,419565.46,165434.54,0.0,40,1,0,0,11,7.0
+PMO-0037,Compliance Customer Response Improvement,Compliance,Monica Herrera,Medium,Active,Red,Delayed,95,55000,49299.12,5700.88,0.0,163,1,0,0,16,7.0
+PMO-0038,Engineering Vendor Risk Reduction,Engineering,Jamie Arnold,Medium,On Hold,Red,Delayed,59,710000,524916.67,185083.33,0.0,34,1,0,0,11,7.0
+PMO-0008,IT Control Review Initiative,IT,Jamie Arnold,High,Completed,Red,Completed,100,350000,357972.3,-7972.3,2.28,0,0,0,0,0,6.279999999999999
+PMO-0009,Customer Service Performance Management Upgrade,Customer Service,Lisa Hensley,Medium,Active,Red,On Track,36,340000,128007.16,211992.84,0.0,0,2,0,0,17,6.0
+PMO-0002,Operations Audit Readiness Program,Operations,Gabrielle Davis,Medium,Active,Red,On Track,5,465000,5764.98,459235.02,0.0,0,0,1,0,29,5.0
+PMO-0010,Quality Performance Management Upgrade,Quality,Michele Williams,High,Completed,Red,Completed,100,1160000,1050725.15,109274.85,0.0,0,0,1,0,4,5.0
+PMO-0022,Finance Performance Management Upgrade,Finance,Daniel Wagner,High,Not Started,Red,Not Started,0,1070000,48648.64,1021351.36,0.0,0,0,1,0,24,5.0
+PMO-0040,Customer Service Business System Rollout,Customer Service,Lisa Hensley,High,Not Started,Red,Not Started,0,685000,21836.34,663163.66,0.0,0,0,1,0,16,5.0
+PMO-0050,Procurement Compliance Documentation Upgrade,Procurement,Jamie Arnold,Medium,Active,Red,On Track,17,755000,244137.93,510862.07,0.0,0,0,1,0,39,5.0
+PMO-0069,Customer Service Lean Execution Initiative,Customer Service,Noah Rhodes,Medium,Not Started,Red,Not Started,0,175000,790.04,174209.96,0.0,0,0,1,0,23,5.0

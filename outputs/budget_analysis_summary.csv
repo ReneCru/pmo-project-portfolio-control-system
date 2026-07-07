@@ -1,0 +1,5 @@
+budget_variance_category,total_projects,total_budget,total_actual_cost,total_forecast_cost,total_budget_variance,total_forecast_variance,average_cost_overrun_percentage,projects_requiring_attention
+Forecast Over Budget,38,23640000,10706511.43,26613057.27,12933488.57,-2973057.27,0.0,25
+Over Budget,14,11035000,12410045.47,12631775.67,-1375045.47,-1596775.67,12.55,14
+Under Budget >10%,21,14125000,5910126.99,12356403.2,8214873.01,1768596.8,0.0,11
+Within Budget,7,5185000,4883588.69,4888842.35,301411.31,296157.65,0.0,2
