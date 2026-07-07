@@ -1,0 +1,81 @@
+project_id,project_name,project_type,department,sponsor,project_manager,priority,strategic_alignment,business_impact,status,schedule_health,start_date,planned_end_date,actual_end_date,completion_percentage,budget,actual_cost,forecast_cost
+PMO-0001,Operations Process Standardization,Process Improvement,Operations,Tommy Walter,Noah Rhodes,Medium,Medium,High,Completed,Completed,2025-11-10,2026-05-29,2026-05-17,100,265000,264951.25,264951.25
+PMO-0002,Operations Audit Readiness Program,Compliance Initiative,Operations,Justin Baker,Gabrielle Davis,Medium,High,Medium,Active,On Track,2026-07-04,2027-07-22,,5,465000,5764.98,427953.11
+PMO-0003,Finance Workflow Optimization,Process Improvement,Finance,Margaret Hawkins DDS,Noah Rhodes,Low,High,High,Active,On Track,2026-04-10,2026-12-15,,39,500000,318235.23,555195.13
+PMO-0004,IT Service Performance Initiative,Customer Experience,IT,Judy Baker,Ryan Munoz,Medium,Low,High,Completed,Completed,2025-03-18,2026-01-22,2025-09-27,100,215000,243644.24,243644.24
+PMO-0005,Engineering Digital Control Tower,Digital Transformation,Engineering,Ethan Adams,Monica Herrera,High,Medium,High,Cancelled,Cancelled,2025-09-23,2026-05-04,,34,260000,29478.78,29478.78
+PMO-0006,IT Control Review Initiative,Compliance Initiative,IT,Lisa Jackson,Angie Henderson,Medium,Medium,High,Active,On Track,2025-11-02,2026-12-13,,53,410000,206378.34,412658.76
+PMO-0007,Manufacturing Control Review Initiative,Compliance Initiative,Manufacturing,Holly Wood,Daniel Wagner,High,Low,Medium,Completed,Completed,2025-12-31,2026-04-13,2026-01-08,100,710000,752530.83,752530.83
+PMO-0008,IT Control Review Initiative,Compliance Initiative,IT,Lisa Jackson,Jamie Arnold,High,Medium,High,Completed,Completed,2026-06-28,2027-04-01,2026-07-05,100,350000,357972.3,357972.3
+PMO-0009,Customer Service Performance Management Upgrade,Operational Excellence,Customer Service,Holly Wood,Lisa Hensley,Medium,High,High,Active,On Track,2026-03-17,2026-12-02,,36,340000,128007.16,378810.49
+PMO-0010,Quality Performance Management Upgrade,Operational Excellence,Quality,Tommy Walter,Michele Williams,High,Low,Medium,Completed,Completed,2025-04-08,2026-01-05,2025-12-03,100,1160000,1050725.15,1050725.15
+PMO-0011,Operations Data Governance Framework,Data Governance,Operations,Justin Baker,Dylan Miller,Critical,Medium,Low,Completed,Completed,2026-01-16,2026-05-28,2026-02-25,100,1000000,966857.86,966857.86
+PMO-0012,Quality Master Data Quality Program,Data Governance,Quality,Derek Zuniga,Connie Lawrence,Medium,Medium,Medium,Not Started,Not Started,2026-11-04,2027-06-19,,0,1115000,20424.67,1181481.31
+PMO-0013,Manufacturing Process Standardization,Process Improvement,Manufacturing,Carla Gray,Daniel Wagner,Low,High,Low,Active,On Track,2025-12-30,2026-11-20,,50,810000,490611.96,896949.53
+PMO-0014,Operations Data Visibility Platform,Digital Transformation,Operations,Ethan Adams,Gabrielle Davis,Critical,High,Medium,Cancelled,Cancelled,2026-06-14,2026-10-02,,73,315000,41010.72,41010.72
+PMO-0015,Customer Service Operational Excellence Program,Operational Excellence,Customer Service,Judy Baker,Monica Herrera,High,High,Low,Not Started,Not Started,2026-08-08,2027-02-01,,0,705000,21415.96,676576.83
+PMO-0016,Procurement Digital Control Tower,Digital Transformation,Procurement,Lisa Jackson,Allison Hill,High,High,Medium,Completed,Completed,2025-09-20,2026-01-05,2026-02-17,100,1210000,1059984.97,1059984.97
+PMO-0017,Engineering Digital Control Tower,Digital Transformation,Engineering,Derek Zuniga,Jamie Arnold,High,Low,Medium,Completed,Completed,2026-01-06,2026-04-27,2026-03-18,100,1070000,1315623.01,1315623.01
+PMO-0018,Procurement Compliance Documentation Upgrade,Compliance Initiative,Procurement,Patty Perez,Gina Moore,High,Low,High,Active,On Track,2026-03-25,2026-09-13,,67,955000,913221.44,1129706.81
+PMO-0019,Operations Cycle Time Reduction,Process Improvement,Operations,Patty Perez,Angie Henderson,High,High,High,Completed,Completed,2026-01-15,2026-05-25,2026-03-04,100,1175000,1141918.47,1141918.47
+PMO-0020,Operations Approval Automation,Automation,Operations,Holly Wood,Dylan Miller,Medium,Medium,High,Active,Delayed,2025-05-13,2025-08-21,,95,1185000,1215882.28,1215882.28
+PMO-0021,Compliance Workflow Automation,Automation,Compliance,Patty Perez,Cristian Santos,Critical,Low,Medium,On Hold,Delayed,2025-09-08,2026-06-15,,30,845000,336369.8,770670.41
+PMO-0022,Finance Performance Management Upgrade,Operational Excellence,Finance,Carla Gray,Daniel Wagner,High,Low,Medium,Not Started,Not Started,2026-08-25,2027-10-12,,0,1070000,48648.64,1059913.1
+PMO-0023,Manufacturing Process Standardization,Process Improvement,Manufacturing,Tommy Walter,Angie Henderson,Low,High,Medium,Completed,Completed,2025-12-20,2026-04-03,2026-04-21,100,1105000,1232084.85,1232084.85
+PMO-0024,Quality Data Visibility Platform,Digital Transformation,Quality,Matthew Foster,Daniel Wagner,Low,Medium,High,On Hold,Delayed,2025-04-12,2026-06-06,,45,300000,170605.23,289409.72
+PMO-0025,Operations Performance Management Upgrade,Operational Excellence,Operations,Carla Gray,Daniel Wagner,High,Medium,High,Not Started,Not Started,2026-09-22,2027-09-21,,0,1145000,55508.72,1341134.48
+PMO-0026,Finance Operational Excellence Program,Operational Excellence,Finance,Matthew Foster,Ryan Munoz,Critical,Low,High,Active,On Track,2025-12-06,2026-10-11,,45,200000,145159.92,242637.91
+PMO-0027,Engineering Data Governance Framework,Data Governance,Engineering,Ethan Adams,Michele Williams,High,Medium,High,On Hold,Delayed,2025-06-17,2026-02-25,,35,825000,235452.53,799090.05
+PMO-0028,Manufacturing Process Standardization,Process Improvement,Manufacturing,Derek Zuniga,Cristian Santos,Low,High,High,Not Started,Not Started,2026-08-23,2027-04-08,,0,265000,599.26,268674.39
+PMO-0029,Manufacturing Cost Avoidance Program,Cost Reduction,Manufacturing,Judy Baker,Michele Williams,High,High,Medium,Active,On Track,2025-11-17,2026-12-06,,62,770000,520112.61,766128.56
+PMO-0030,Supply Chain Data Visibility Platform,Digital Transformation,Supply Chain,Judy Baker,Cristian Santos,Medium,High,Medium,Active,On Track,2026-04-11,2026-11-13,,34,750000,264280.35,817457.72
+PMO-0031,Compliance Master Data Quality Program,Data Governance,Compliance,Margaret Hawkins DDS,Ryan Munoz,Medium,Medium,Medium,On Hold,Delayed,2025-05-27,2025-09-17,,64,365000,217674.94,430980.66
+PMO-0032,Supply Chain Business System Rollout,System Implementation,Supply Chain,Tommy Walter,Dylan Miller,High,Low,Low,Completed,Completed,2025-03-14,2025-11-27,2025-07-19,100,265000,233152.37,233152.37
+PMO-0033,Quality Audit Readiness Program,Compliance Initiative,Quality,Justin Baker,Lisa Hensley,Medium,High,High,Completed,Completed,2025-08-02,2026-05-15,2026-01-19,100,915000,1138950.62,1138950.62
+PMO-0034,Operations Operational Excellence Program,Operational Excellence,Operations,Lisa Jackson,Daniel Wagner,High,High,High,Active,On Track,2026-05-29,2026-12-03,,12,1015000,22541.98,1203192.67
+PMO-0035,IT ERP Enhancement,System Implementation,IT,Tommy Walter,Connie Lawrence,Medium,Low,High,Active,At Risk,2025-11-14,2026-07-26,,95,890000,1008141.21,1028085.73
+PMO-0036,Finance Efficiency Savings Project,Cost Reduction,Finance,Margaret Hawkins DDS,Abigail Shaffer,Medium,Medium,Medium,Completed,Completed,2025-10-31,2026-02-02,2026-02-19,100,775000,897843.81,897843.81
+PMO-0037,Compliance Customer Response Improvement,Customer Experience,Compliance,Tommy Walter,Monica Herrera,Medium,Medium,Medium,Active,Delayed,2025-10-20,2026-01-25,,95,55000,49299.12,66114.74
+PMO-0038,Engineering Vendor Risk Reduction,Supplier Development,Engineering,Holly Wood,Jamie Arnold,Medium,Low,Medium,On Hold,Delayed,2025-04-14,2026-06-03,,59,710000,524916.67,721228.16
+PMO-0039,Compliance Vendor Risk Reduction,Supplier Development,Compliance,Patty Perez,Monica Herrera,Medium,Medium,High,Active,On Track,2025-12-01,2026-11-24,,58,930000,567368.2,1074486.81
+PMO-0040,Customer Service Business System Rollout,System Implementation,Customer Service,Patty Perez,Lisa Hensley,High,Medium,Medium,Not Started,Not Started,2026-08-17,2026-10-31,,0,685000,21836.34,829209.26
+PMO-0041,Procurement Workflow Automation,Automation,Procurement,Carla Gray,Gabrielle Davis,Medium,Medium,Medium,Active,On Track,2025-09-08,2026-08-10,,84,405000,376198.82,381452.48
+PMO-0042,Operations Control Review Initiative,Compliance Initiative,Operations,Ethan Adams,Ryan Munoz,Critical,Medium,High,On Hold,Delayed,2025-12-16,2026-06-24,,29,100000,41451.09,116983.85
+PMO-0043,Compliance Customer Response Improvement,Customer Experience,Compliance,Brian Ramirez,Dylan Miller,Medium,Medium,Medium,Active,On Track,2026-03-02,2027-01-24,,48,360000,207906.57,389864.34
+PMO-0044,Operations Operational Excellence Program,Operational Excellence,Operations,Holly Wood,Gina Moore,High,High,Medium,Active,At Risk,2025-08-01,2026-07-07,,95,1220000,1089651.02,1111420.26
+PMO-0045,Manufacturing Data Accuracy Initiative,Data Governance,Manufacturing,Tommy Walter,Gina Moore,High,Low,Medium,Active,On Track,2025-12-23,2026-10-20,,64,1110000,881966.22,1121127.3
+PMO-0046,Procurement Workflow Automation,Automation,Procurement,Lisa Jackson,Cristian Santos,High,High,Medium,Active,On Track,2025-10-13,2026-11-18,,77,1145000,881325.84,1194960.96
+PMO-0047,Engineering Business System Rollout,System Implementation,Engineering,Justin Baker,Angie Henderson,High,Medium,High,Active,On Track,2025-12-26,2026-12-12,,55,365000,274560.47,357728.97
+PMO-0048,Compliance Supplier Scorecard Rollout,Supplier Development,Compliance,Matthew Foster,Jamie Arnold,High,High,Low,Active,On Track,2026-05-25,2027-03-08,,12,930000,78574.32,1139616.59
+PMO-0049,Customer Service Lean Execution Initiative,Operational Excellence,Customer Service,Justin Baker,Gabrielle Davis,Medium,Medium,Low,Completed,Completed,2025-02-08,2025-10-21,2025-08-26,100,930000,1091120.78,1091120.78
+PMO-0050,Procurement Compliance Documentation Upgrade,Compliance Initiative,Procurement,Patty Perez,Jamie Arnold,Medium,High,Medium,Active,On Track,2026-04-24,2027-03-13,,17,755000,244137.93,909783.46
+PMO-0051,Quality Customer Visibility Upgrade,Customer Experience,Quality,Patty Perez,Angie Henderson,Critical,Low,High,Active,Delayed,2025-03-01,2025-12-02,,93,105000,124637.48,124637.48
+PMO-0052,Finance Lean Execution Initiative,Operational Excellence,Finance,Patty Perez,Cristian Santos,High,Medium,Medium,Active,At Risk,2025-09-06,2026-07-10,,95,845000,991164.77,1025519.0
+PMO-0053,Manufacturing Cycle Time Reduction,Process Improvement,Manufacturing,Lisa Jackson,Daniel Wagner,Medium,Medium,Medium,Active,On Track,2025-09-19,2026-10-31,,63,135000,83858.5,141680.84
+PMO-0054,Engineering Cost Avoidance Program,Cost Reduction,Engineering,Derek Zuniga,Ryan Munoz,Medium,Medium,Medium,On Hold,Delayed,2025-05-30,2026-05-28,,49,585000,419565.46,702734.59
+PMO-0055,Operations Cost Avoidance Program,Cost Reduction,Operations,Justin Baker,Daniel Wagner,High,High,Medium,Completed,Completed,2025-05-23,2026-05-29,2025-10-29,100,835000,712072.01,712072.01
+PMO-0056,Engineering Data Visibility Platform,Digital Transformation,Engineering,Margaret Hawkins DDS,Gabrielle Davis,Medium,High,High,On Hold,On Track,2025-12-07,2026-12-24,,23,1235000,270271.26,1163311.81
+PMO-0057,Manufacturing Supplier Performance Program,Supplier Development,Manufacturing,Ethan Adams,Jamie Arnold,Medium,High,High,Active,On Track,2026-04-08,2027-02-27,,31,810000,279487.32,996314.9
+PMO-0058,Manufacturing Platform Implementation,System Implementation,Manufacturing,Justin Baker,Ryan Munoz,High,High,Low,Not Started,Not Started,2026-08-07,2027-06-25,,0,1025000,16564.15,1108616.14
+PMO-0059,Operations Business System Rollout,System Implementation,Operations,Ethan Adams,Michele Williams,High,High,Medium,Active,On Track,2025-10-09,2026-08-17,,75,845000,877712.34,1045143.79
+PMO-0060,IT Business System Rollout,System Implementation,IT,Lisa Jackson,Noah Rhodes,Critical,High,Medium,On Hold,On Track,2025-11-15,2026-11-30,,37,1215000,450416.2,1304954.93
+PMO-0061,Manufacturing Control Review Initiative,Compliance Initiative,Manufacturing,Lisa Jackson,Abigail Shaffer,Critical,Medium,High,On Hold,On Track,2026-06-04,2027-07-14,,5,85000,0.0,94634.54
+PMO-0062,Customer Service Vendor Risk Reduction,Supplier Development,Customer Service,Justin Baker,Gabrielle Davis,High,High,Medium,Not Started,Not Started,2026-08-22,2027-08-03,,0,770000,19353.14,706873.52
+PMO-0063,Finance Business System Rollout,System Implementation,Finance,Tommy Walter,Lisa Hensley,Critical,Medium,High,Active,Delayed,2025-09-26,2026-02-09,,88,710000,632935.6,864704.07
+PMO-0064,Procurement Platform Implementation,System Implementation,Procurement,Lisa Jackson,Cristian Santos,Low,High,High,Not Started,Not Started,2026-09-28,2027-09-06,,0,645000,7725.87,613210.02
+PMO-0065,Supply Chain Master Data Quality Program,Data Governance,Supply Chain,Derek Zuniga,Monica Herrera,Medium,Low,Medium,Cancelled,Cancelled,2025-11-09,2026-02-15,,75,665000,278065.96,278065.96
+PMO-0066,Supply Chain Service Performance Initiative,Customer Experience,Supply Chain,Carla Gray,Michele Williams,Low,Medium,Low,Active,On Track,2026-05-28,2027-04-13,,26,435000,110948.93,502370.94
+PMO-0067,Compliance Manual Reporting Automation,Automation,Compliance,Matthew Foster,Cristian Santos,High,High,High,Not Started,Not Started,2026-09-15,2027-10-17,,0,160000,2942.27,179409.13
+PMO-0068,Manufacturing Performance Management Upgrade,Operational Excellence,Manufacturing,Patty Perez,Gina Moore,Medium,Low,High,Not Started,Not Started,2026-10-05,2027-10-31,,0,525000,16630.15,570948.6
+PMO-0069,Customer Service Lean Execution Initiative,Operational Excellence,Customer Service,Justin Baker,Noah Rhodes,Medium,Low,High,Not Started,Not Started,2026-09-07,2027-10-04,,0,175000,790.04,208662.28
+PMO-0070,Engineering Platform Implementation,System Implementation,Engineering,Patty Perez,Gina Moore,High,Medium,Medium,Completed,Completed,2025-04-26,2025-09-28,2025-09-14,100,205000,200553.97,200553.97
+PMO-0071,Supply Chain Compliance Documentation Upgrade,Compliance Initiative,Supply Chain,Judy Baker,Ryan Munoz,Low,Medium,Low,Active,On Track,2025-11-18,2026-09-21,,84,540000,439888.0,493706.5
+PMO-0072,Compliance Data Visibility Platform,Digital Transformation,Compliance,Holly Wood,Allison Hill,Medium,High,High,Active,On Track,2025-09-20,2026-10-31,,91,605000,494064.25,652935.71
+PMO-0073,Customer Service Business System Rollout,System Implementation,Customer Service,Tommy Walter,Gabrielle Davis,Low,Medium,High,Active,Delayed,2025-06-09,2026-04-19,,95,895000,841835.49,1007600.38
+PMO-0074,Supply Chain Performance Management Upgrade,Operational Excellence,Supply Chain,Judy Baker,Michele Williams,High,Low,Medium,Active,On Track,2025-12-29,2027-01-17,,55,240000,145126.59,294685.32
+PMO-0075,Supply Chain Platform Implementation,System Implementation,Supply Chain,Derek Zuniga,Ryan Munoz,Low,High,Low,Completed,Completed,2025-03-15,2025-08-26,2025-08-28,100,975000,882383.17,882383.17
+PMO-0076,Operations Workflow Automation,Automation,Operations,Margaret Hawkins DDS,Abigail Shaffer,Low,Medium,High,Active,On Track,2026-03-27,2026-11-27,,30,270000,90835.17,253723.25
+PMO-0077,Compliance Master Data Quality Program,Data Governance,Compliance,Patty Perez,Michele Williams,Critical,Medium,Low,Active,On Track,2026-05-13,2026-09-10,,55,730000,567128.88,798853.81
+PMO-0078,Manufacturing Workflow Automation,Automation,Manufacturing,Brian Ramirez,Daniel Wagner,Medium,High,High,Completed,Completed,2025-03-29,2025-09-16,2025-09-04,100,1095000,1162736.95,1162736.95
+PMO-0079,Finance Approval Automation,Automation,Finance,Carla Gray,Gabrielle Davis,Medium,High,Medium,Active,On Track,2026-06-13,2026-10-28,,5,550000,25707.5,512922.28
+PMO-0080,Engineering Reporting Automation,Digital Transformation,Engineering,Carla Gray,Abigail Shaffer,Medium,Medium,Low,On Hold,At Risk,2025-06-02,2026-07-13,,51,660000,362791.33,761695.76
