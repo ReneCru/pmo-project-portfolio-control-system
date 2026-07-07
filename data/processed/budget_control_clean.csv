@@ -1,0 +1,81 @@
+project_id,project_name,department,project_manager,budget,actual_cost,forecast_cost,budget_variance,forecast_variance,cost_overrun_percentage,budget_status
+PMO-0001,Operations Process Standardization,Operations,Noah Rhodes,265000,264951.25,264951.25,48.75,48.75,0.0,Within Budget
+PMO-0002,Operations Audit Readiness Program,Operations,Gabrielle Davis,465000,5764.98,427953.11,459235.02,37046.89,0.0,Within Budget
+PMO-0003,Finance Workflow Optimization,Finance,Noah Rhodes,500000,318235.23,555195.13,181764.77,-55195.13,0.0,Within Budget
+PMO-0004,IT Service Performance Initiative,IT,Ryan Munoz,215000,243644.24,243644.24,-28644.24,-28644.24,13.32,Over Budget
+PMO-0005,Engineering Digital Control Tower,Engineering,Monica Herrera,260000,29478.78,29478.78,230521.22,230521.22,0.0,Within Budget
+PMO-0006,IT Control Review Initiative,IT,Angie Henderson,410000,206378.34,412658.76,203621.66,-2658.76,0.0,Within Budget
+PMO-0007,Manufacturing Control Review Initiative,Manufacturing,Daniel Wagner,710000,752530.83,752530.83,-42530.83,-42530.83,5.99,Over Budget
+PMO-0008,IT Control Review Initiative,IT,Jamie Arnold,350000,357972.3,357972.3,-7972.3,-7972.3,2.28,Over Budget
+PMO-0009,Customer Service Performance Management Upgrade,Customer Service,Lisa Hensley,340000,128007.16,378810.49,211992.84,-38810.49,0.0,Within Budget
+PMO-0010,Quality Performance Management Upgrade,Quality,Michele Williams,1160000,1050725.15,1050725.15,109274.85,109274.85,0.0,Within Budget
+PMO-0011,Operations Data Governance Framework,Operations,Dylan Miller,1000000,966857.86,966857.86,33142.14,33142.14,0.0,Within Budget
+PMO-0012,Quality Master Data Quality Program,Quality,Connie Lawrence,1115000,20424.67,1181481.31,1094575.33,-66481.31,0.0,Within Budget
+PMO-0013,Manufacturing Process Standardization,Manufacturing,Daniel Wagner,810000,490611.96,896949.53,319388.04,-86949.53,0.0,Within Budget
+PMO-0014,Operations Data Visibility Platform,Operations,Gabrielle Davis,315000,41010.72,41010.72,273989.28,273989.28,0.0,Within Budget
+PMO-0015,Customer Service Operational Excellence Program,Customer Service,Monica Herrera,705000,21415.96,676576.83,683584.04,28423.17,0.0,Within Budget
+PMO-0016,Procurement Digital Control Tower,Procurement,Allison Hill,1210000,1059984.97,1059984.97,150015.03,150015.03,0.0,Within Budget
+PMO-0017,Engineering Digital Control Tower,Engineering,Jamie Arnold,1070000,1315623.01,1315623.01,-245623.01,-245623.01,22.96,Over Budget
+PMO-0018,Procurement Compliance Documentation Upgrade,Procurement,Gina Moore,955000,913221.44,1129706.81,41778.56,-174706.81,0.0,Within Budget
+PMO-0019,Operations Cycle Time Reduction,Operations,Angie Henderson,1175000,1141918.47,1141918.47,33081.53,33081.53,0.0,Within Budget
+PMO-0020,Operations Approval Automation,Operations,Dylan Miller,1185000,1215882.28,1215882.28,-30882.28,-30882.28,2.61,Over Budget
+PMO-0021,Compliance Workflow Automation,Compliance,Cristian Santos,845000,336369.8,770670.41,508630.2,74329.59,0.0,Within Budget
+PMO-0022,Finance Performance Management Upgrade,Finance,Daniel Wagner,1070000,48648.64,1059913.1,1021351.36,10086.9,0.0,Within Budget
+PMO-0023,Manufacturing Process Standardization,Manufacturing,Angie Henderson,1105000,1232084.85,1232084.85,-127084.85,-127084.85,11.5,Over Budget
+PMO-0024,Quality Data Visibility Platform,Quality,Daniel Wagner,300000,170605.23,289409.72,129394.77,10590.28,0.0,Within Budget
+PMO-0025,Operations Performance Management Upgrade,Operations,Daniel Wagner,1145000,55508.72,1341134.48,1089491.28,-196134.48,0.0,Within Budget
+PMO-0026,Finance Operational Excellence Program,Finance,Ryan Munoz,200000,145159.92,242637.91,54840.08,-42637.91,0.0,Within Budget
+PMO-0027,Engineering Data Governance Framework,Engineering,Michele Williams,825000,235452.53,799090.05,589547.47,25909.95,0.0,Within Budget
+PMO-0028,Manufacturing Process Standardization,Manufacturing,Cristian Santos,265000,599.26,268674.39,264400.74,-3674.39,0.0,Within Budget
+PMO-0029,Manufacturing Cost Avoidance Program,Manufacturing,Michele Williams,770000,520112.61,766128.56,249887.39,3871.44,0.0,Within Budget
+PMO-0030,Supply Chain Data Visibility Platform,Supply Chain,Cristian Santos,750000,264280.35,817457.72,485719.65,-67457.72,0.0,Within Budget
+PMO-0031,Compliance Master Data Quality Program,Compliance,Ryan Munoz,365000,217674.94,430980.66,147325.06,-65980.66,0.0,Within Budget
+PMO-0032,Supply Chain Business System Rollout,Supply Chain,Dylan Miller,265000,233152.37,233152.37,31847.63,31847.63,0.0,Within Budget
+PMO-0033,Quality Audit Readiness Program,Quality,Lisa Hensley,915000,1138950.62,1138950.62,-223950.62,-223950.62,24.48,Over Budget
+PMO-0034,Operations Operational Excellence Program,Operations,Daniel Wagner,1015000,22541.98,1203192.67,992458.02,-188192.67,0.0,Within Budget
+PMO-0035,IT ERP Enhancement,IT,Connie Lawrence,890000,1008141.21,1028085.73,-118141.21,-138085.73,13.27,Over Budget
+PMO-0036,Finance Efficiency Savings Project,Finance,Abigail Shaffer,775000,897843.81,897843.81,-122843.81,-122843.81,15.85,Over Budget
+PMO-0037,Compliance Customer Response Improvement,Compliance,Monica Herrera,55000,49299.12,66114.74,5700.88,-11114.74,0.0,Within Budget
+PMO-0038,Engineering Vendor Risk Reduction,Engineering,Jamie Arnold,710000,524916.67,721228.16,185083.33,-11228.16,0.0,Within Budget
+PMO-0039,Compliance Vendor Risk Reduction,Compliance,Monica Herrera,930000,567368.2,1074486.81,362631.8,-144486.81,0.0,Within Budget
+PMO-0040,Customer Service Business System Rollout,Customer Service,Lisa Hensley,685000,21836.34,829209.26,663163.66,-144209.26,0.0,Within Budget
+PMO-0041,Procurement Workflow Automation,Procurement,Gabrielle Davis,405000,376198.82,381452.48,28801.18,23547.52,0.0,Within Budget
+PMO-0042,Operations Control Review Initiative,Operations,Ryan Munoz,100000,41451.09,116983.85,58548.91,-16983.85,0.0,Within Budget
+PMO-0043,Compliance Customer Response Improvement,Compliance,Dylan Miller,360000,207906.57,389864.34,152093.43,-29864.34,0.0,Within Budget
+PMO-0044,Operations Operational Excellence Program,Operations,Gina Moore,1220000,1089651.02,1111420.26,130348.98,108579.74,0.0,Within Budget
+PMO-0045,Manufacturing Data Accuracy Initiative,Manufacturing,Gina Moore,1110000,881966.22,1121127.3,228033.78,-11127.3,0.0,Within Budget
+PMO-0046,Procurement Workflow Automation,Procurement,Cristian Santos,1145000,881325.84,1194960.96,263674.16,-49960.96,0.0,Within Budget
+PMO-0047,Engineering Business System Rollout,Engineering,Angie Henderson,365000,274560.47,357728.97,90439.53,7271.03,0.0,Within Budget
+PMO-0048,Compliance Supplier Scorecard Rollout,Compliance,Jamie Arnold,930000,78574.32,1139616.59,851425.68,-209616.59,0.0,Within Budget
+PMO-0049,Customer Service Lean Execution Initiative,Customer Service,Gabrielle Davis,930000,1091120.78,1091120.78,-161120.78,-161120.78,17.32,Over Budget
+PMO-0050,Procurement Compliance Documentation Upgrade,Procurement,Jamie Arnold,755000,244137.93,909783.46,510862.07,-154783.46,0.0,Within Budget
+PMO-0051,Quality Customer Visibility Upgrade,Quality,Angie Henderson,105000,124637.48,124637.48,-19637.48,-19637.48,18.7,Over Budget
+PMO-0052,Finance Lean Execution Initiative,Finance,Cristian Santos,845000,991164.77,1025519.0,-146164.77,-180519.0,17.3,Over Budget
+PMO-0053,Manufacturing Cycle Time Reduction,Manufacturing,Daniel Wagner,135000,83858.5,141680.84,51141.5,-6680.84,0.0,Within Budget
+PMO-0054,Engineering Cost Avoidance Program,Engineering,Ryan Munoz,585000,419565.46,702734.59,165434.54,-117734.59,0.0,Within Budget
+PMO-0055,Operations Cost Avoidance Program,Operations,Daniel Wagner,835000,712072.01,712072.01,122927.99,122927.99,0.0,Within Budget
+PMO-0056,Engineering Data Visibility Platform,Engineering,Gabrielle Davis,1235000,270271.26,1163311.81,964728.74,71688.19,0.0,Within Budget
+PMO-0057,Manufacturing Supplier Performance Program,Manufacturing,Jamie Arnold,810000,279487.32,996314.9,530512.68,-186314.9,0.0,Within Budget
+PMO-0058,Manufacturing Platform Implementation,Manufacturing,Ryan Munoz,1025000,16564.15,1108616.14,1008435.85,-83616.14,0.0,Within Budget
+PMO-0059,Operations Business System Rollout,Operations,Michele Williams,845000,877712.34,1045143.79,-32712.34,-200143.79,3.87,Over Budget
+PMO-0060,IT Business System Rollout,IT,Noah Rhodes,1215000,450416.2,1304954.93,764583.8,-89954.93,0.0,Within Budget
+PMO-0061,Manufacturing Control Review Initiative,Manufacturing,Abigail Shaffer,85000,0.0,94634.54,85000.0,-9634.54,0.0,Within Budget
+PMO-0062,Customer Service Vendor Risk Reduction,Customer Service,Gabrielle Davis,770000,19353.14,706873.52,750646.86,63126.48,0.0,Within Budget
+PMO-0063,Finance Business System Rollout,Finance,Lisa Hensley,710000,632935.6,864704.07,77064.4,-154704.07,0.0,Within Budget
+PMO-0064,Procurement Platform Implementation,Procurement,Cristian Santos,645000,7725.87,613210.02,637274.13,31789.98,0.0,Within Budget
+PMO-0065,Supply Chain Master Data Quality Program,Supply Chain,Monica Herrera,665000,278065.96,278065.96,386934.04,386934.04,0.0,Within Budget
+PMO-0066,Supply Chain Service Performance Initiative,Supply Chain,Michele Williams,435000,110948.93,502370.94,324051.07,-67370.94,0.0,Within Budget
+PMO-0067,Compliance Manual Reporting Automation,Compliance,Cristian Santos,160000,2942.27,179409.13,157057.73,-19409.13,0.0,Within Budget
+PMO-0068,Manufacturing Performance Management Upgrade,Manufacturing,Gina Moore,525000,16630.15,570948.6,508369.85,-45948.6,0.0,Within Budget
+PMO-0069,Customer Service Lean Execution Initiative,Customer Service,Noah Rhodes,175000,790.04,208662.28,174209.96,-33662.28,0.0,Within Budget
+PMO-0070,Engineering Platform Implementation,Engineering,Gina Moore,205000,200553.97,200553.97,4446.03,4446.03,0.0,Within Budget
+PMO-0071,Supply Chain Compliance Documentation Upgrade,Supply Chain,Ryan Munoz,540000,439888.0,493706.5,100112.0,46293.5,0.0,Within Budget
+PMO-0072,Compliance Data Visibility Platform,Compliance,Allison Hill,605000,494064.25,652935.71,110935.75,-47935.71,0.0,Within Budget
+PMO-0073,Customer Service Business System Rollout,Customer Service,Gabrielle Davis,895000,841835.49,1007600.38,53164.51,-112600.38,0.0,Within Budget
+PMO-0074,Supply Chain Performance Management Upgrade,Supply Chain,Michele Williams,240000,145126.59,294685.32,94873.41,-54685.32,0.0,Within Budget
+PMO-0075,Supply Chain Platform Implementation,Supply Chain,Ryan Munoz,975000,882383.17,882383.17,92616.83,92616.83,0.0,Within Budget
+PMO-0076,Operations Workflow Automation,Operations,Abigail Shaffer,270000,90835.17,253723.25,179164.83,16276.75,0.0,Within Budget
+PMO-0077,Compliance Master Data Quality Program,Compliance,Michele Williams,730000,567128.88,798853.81,162871.12,-68853.81,0.0,Within Budget
+PMO-0078,Manufacturing Workflow Automation,Manufacturing,Daniel Wagner,1095000,1162736.95,1162736.95,-67736.95,-67736.95,6.19,Over Budget
+PMO-0079,Finance Approval Automation,Finance,Gabrielle Davis,550000,25707.5,512922.28,524292.5,37077.72,0.0,Within Budget
+PMO-0080,Engineering Reporting Automation,Engineering,Abigail Shaffer,660000,362791.33,761695.76,297208.67,-101695.76,0.0,Within Budget
